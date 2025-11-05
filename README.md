@@ -15,6 +15,7 @@
 ---
 
 ## 🚀 About Me
+- 💡 Undergoing **training in SAP ABAP (Advanced Business Application Programming)** to gain hands-on experience in enterprise application development and ERP customization  
 - 🌱 Currently exploring **AI-driven applications**, **Django**, and **Flutter**
 - 💡 Interested in developing intelligent and user-friendly systems
 - 🎯 Focused on continuous learning and building impactful projects
@@ -29,6 +30,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 
 <!-- Frameworks -->
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -49,6 +51,7 @@
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 </div>
+
 
 ---
 
